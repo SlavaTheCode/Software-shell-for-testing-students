@@ -1,0 +1,44 @@
+D:\VS\Source\repos\Software shell for testing students\bin\Release\Database_Main.mdf
+D:\VS\Source\repos\Software shell for testing students\bin\Release\Database_Main_log.ldf
+D:\VS\Source\repos\Software shell for testing students\bin\Release\Software shell for testing students.exe.config
+D:\VS\Source\repos\Software shell for testing students\bin\Release\Software shell for testing students.exe
+D:\VS\Source\repos\Software shell for testing students\bin\Release\Software shell for testing students.pdb
+D:\VS\Source\repos\Software shell for testing students\bin\Release\BouncyCastle.Cryptography.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\ClosedXML.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\ClosedXML.Parser.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\DocumentFormat.OpenXml.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\ExcelNumberFormat.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\Microsoft.Bcl.HashCode.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\RBush.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\SixLabors.Fonts.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Buffers.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.IO.Packaging.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Memory.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Numerics.Vectors.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Release\BouncyCastle.Cryptography.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\ClosedXML.pdb
+D:\VS\Source\repos\Software shell for testing students\bin\Release\ClosedXML.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\ClosedXML.Parser.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\DocumentFormat.OpenXml.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\ExcelNumberFormat.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\RBush.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\SixLabors.Fonts.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Buffers.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Memory.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Numerics.Vectors.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software shell for testing students.csproj.AssemblyReference.cache
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software_shell_for_testing_students.Frm_Authorization.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software_shell_for_testing_students.Frm_Student.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software_shell_for_testing_students.Frm_Teacher.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software_shell_for_testing_students.Frm_Test.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software_shell_for_testing_students.Properties.Resources.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software shell for testing students.csproj.GenerateResource.cache
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software shell for testing students.csproj.CoreCompileInputs.cache
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software.2CEC196F.Up2Date
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software shell for testing students.exe
+D:\VS\Source\repos\Software shell for testing students\obj\Release\Software shell for testing students.pdb

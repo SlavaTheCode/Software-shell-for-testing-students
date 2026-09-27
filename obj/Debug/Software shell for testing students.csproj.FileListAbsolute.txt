@@ -1,0 +1,44 @@
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\Database_Main.mdf
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\Database_Main_log.ldf
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\Software shell for testing students.exe.config
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\Software shell for testing students.exe
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\Software shell for testing students.pdb
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software shell for testing students.csproj.AssemblyReference.cache
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software_shell_for_testing_students.Frm_Authorization.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software_shell_for_testing_students.Frm_Student.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software_shell_for_testing_students.Frm_Teacher.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software_shell_for_testing_students.Frm_Test.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software_shell_for_testing_students.Properties.Resources.resources
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software shell for testing students.csproj.GenerateResource.cache
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software shell for testing students.csproj.CoreCompileInputs.cache
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software shell for testing students.exe
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software shell for testing students.pdb
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\BouncyCastle.Cryptography.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\BouncyCastle.Cryptography.xml
+D:\VS\Source\repos\Software shell for testing students\obj\Debug\Software.2CEC196F.Up2Date
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\ClosedXML.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\ClosedXML.Parser.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\DocumentFormat.OpenXml.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\ExcelNumberFormat.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\RBush.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\SixLabors.Fonts.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Buffers.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Memory.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Numerics.Vectors.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\ClosedXML.pdb
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\ClosedXML.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\ClosedXML.Parser.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\DocumentFormat.OpenXml.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\ExcelNumberFormat.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\RBush.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\SixLabors.Fonts.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Buffers.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Memory.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Numerics.Vectors.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS\Source\repos\Software shell for testing students\bin\Debug\System.IO.Packaging.dll

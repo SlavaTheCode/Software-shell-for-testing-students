@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\Source\\repos\\Software shell for testing students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|d:\\vs\\source\\repos\\software shell for testing students\\frm_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:frm_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\frm_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:frm_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\frm_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:frm_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\frm_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:frm_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\frm_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:frm_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\frm_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:frm_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|D:\\VS\\Source\\repos\\Software shell for testing students\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE461626-50E7-48AD-9DCE-913F1DB5FA4A}|Software shell for testing students.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-06-09T18:13:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Test.cs",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Test.cs",
+              "RelativeDocumentMoniker": "Frm_Test.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Test.cs",
+              "RelativeToolTip": "Frm_Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOIBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:09:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm_Test.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Test.cs",
+              "RelativeDocumentMoniker": "Frm_Test.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Test.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Frm_Test.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:01:28.591Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Teacher.cs",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Teacher.cs",
+              "RelativeDocumentMoniker": "Frm_Teacher.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Teacher.cs",
+              "RelativeToolTip": "Frm_Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:13:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_Teacher.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Teacher.cs",
+              "RelativeDocumentMoniker": "Frm_Teacher.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Teacher.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Frm_Teacher.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:06:19.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_Student.cs",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Student.cs",
+              "RelativeDocumentMoniker": "Frm_Student.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Student.cs",
+              "RelativeToolTip": "Frm_Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:25:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_Student.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Student.cs",
+              "RelativeDocumentMoniker": "Frm_Student.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Frm_Student.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Frm_Student.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:06:43.218Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:34:14.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\VS\\Source\\repos\\Software shell for testing students\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\VS\\Source\\repos\\Software shell for testing students\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:05:11.342Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
